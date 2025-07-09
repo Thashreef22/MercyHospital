@@ -1,5 +1,7 @@
-<img width="545" alt="Receptionist" src="https://github.com/user-attachments/assets/a09f48fb-880e-464e-8c09-ef5ae717cda9" /># MercyHospital
+# MercyHospital
 Hospiatl Management System For Mercy Hospital
+
+<img width="545" alt="Receptionist" src="https://github.com/user-attachments/assets/a09f48fb-880e-464e-8c09-ef5ae717cda9" />
 <img width="541" alt="MainPage" src="https://github.com/user-attachments/assets/2efea853-840c-41b9-a1c8-a72cbbe4e78d" />
 <img width="420" alt="UserPage" src="https://github.com/user-attachments/assets/5f30d76c-921c-40d2-ac5f-bfc117d000ce" />
 <img width="391" alt="Login" src="https://github.com/user-attachments/assets/003d0078-9298-4c3a-aff3-9feec9afcaa2" />
