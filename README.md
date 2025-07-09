@@ -19,3 +19,12 @@ Hospiatl Management System For Mercy Hospital
 <img width="574" alt="ViewChannel" src="https://github.com/user-attachments/assets/2763a6d1-c8a7-4ee2-b2b3-12b32f212152" />
 <img width="483" alt="ViewPrescription" src="https://github.com/user-attachments/assets/f23218dd-b44b-4e52-8b4f-e86ef7eb3cce" />
 <img width="511" alt="ViewDoctor" src="https://github.com/user-attachments/assets/9469a6a1-32cd-41f8-9080-d231f000ea8a" />
+<img width="683" alt="userdb" src="https://github.com/user-attachments/assets/a288b3c8-6115-4cb7-be6f-d9aca4097138" />
+<img width="731" alt="patoientdb" src="https://github.com/user-attachments/assets/77b53b93-38b8-471c-af81-d4dfda211a16" />
+<img width="638" alt="salesproductdb" src="https://github.com/user-attachments/assets/5d77df2c-e3a7-431c-a590-6fb3ecc89e62" />
+<img width="674" alt="salesdb" src="https://github.com/user-attachments/assets/23318d78-0655-4977-906f-fac380ad0318" />
+<img width="680" alt="channeldb" src="https://github.com/user-attachments/assets/1bd8c2aa-f80a-49bd-bcb7-9c4b87f60e3f" />
+<img width="755" alt="itemdb" src="https://github.com/user-attachments/assets/d180495c-0ebb-411b-8038-5b779fa2eb5b" />
+<img width="720" alt="prescriptiondb" src="https://github.com/user-attachments/assets/d5a3b981-a438-439d-a5fc-c57a3faefa06" />
+<img width="800" alt="doctordb" src="https://github.com/user-attachments/assets/c6ddb702-e552-4406-9022-d659557684e7" />
+
