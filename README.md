@@ -1,10 +1,12 @@
-# MercyHospital
+<img width="545" alt="Receptionist" src="https://github.com/user-attachments/assets/a09f48fb-880e-464e-8c09-ef5ae717cda9" /># MercyHospital
 Hospiatl Management System For Mercy Hospital
 <img width="541" alt="MainPage" src="https://github.com/user-attachments/assets/2efea853-840c-41b9-a1c8-a72cbbe4e78d" />
 <img width="420" alt="UserPage" src="https://github.com/user-attachments/assets/5f30d76c-921c-40d2-ac5f-bfc117d000ce" />
 <img width="391" alt="Login" src="https://github.com/user-attachments/assets/003d0078-9298-4c3a-aff3-9feec9afcaa2" />
 <img width="617" alt="Channel" src="https://github.com/user-attachments/assets/4b716a56-3083-4000-a0bc-ffb106825859" />
 <img width="742" alt="Patient" src="https://github.com/user-attachments/assets/d5695378-1d79-4495-a634-ffeb3775134a" />
+<img width="547" alt="Pharmacist" src="https://github.com/user-attachments/assets/5be2314a-91d8-409d-9f41-1d305f1c90cc" />
+<img width="545" alt="Receptionist" src="https://github.com/user-attachments/assets/1a469bda-c9c1-499a-aecd-b105dd85e98f" />
 <img width="544" alt="Doctor" src="https://github.com/user-attachments/assets/d9e53efc-1c87-4780-8383-9cd316b3205f" />
 <img width="665" alt="DoctorReg" src="https://github.com/user-attachments/assets/7037c55c-9530-4cbd-87ee-ba9c7def1b6c" />
 <img width="443" alt="Prescription" src="https://github.com/user-attachments/assets/75768cdd-88a2-4034-9a8e-d7c1921cb510" />
