@@ -19,7 +19,5 @@ Hospiatl Management System For Mercy Hospital
 <img width="574" alt="ViewChannel" src="https://github.com/user-attachments/assets/2763a6d1-c8a7-4ee2-b2b3-12b32f212152" />
 <img width="483" alt="ViewPrescription" src="https://github.com/user-attachments/assets/f23218dd-b44b-4e52-8b4f-e86ef7eb3cce" />
 <img width="511" alt="ViewDoctor" src="https://github.com/user-attachments/assets/9469a6a1-32cd-41f8-9080-d231f000ea8a" />
-<img width="683" alt="userdb" src="https://github.com/user-attachments/assets/a288b3c8-6115-4cb7-be6f-d9aca4097138" />
-<img width="731" alt="patoientdb" src="https://github.com/user-attachments/assets/77b53b93-38b8-471c-af81-d4dfda211a16" />
-<img width="638" alt="salesproductdb" src="https://github.com/user-attachments/assets/5d77df2c-e3a7-431c-a590-6fb3ecc89e62" />
+
 
